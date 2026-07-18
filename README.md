@@ -3,6 +3,7 @@
 Announcements about new features and changes. Also published at https://imbutus.com/news.
 
 - **2026-07-18** — [Prepared OSINT Workflows](posts/prepared-osint-workflows.md)
+- **2026-07-18** — [Introducing the News Page](posts/news-page-launch.md)
 
 ## Questions and problems
 
