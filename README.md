@@ -2,6 +2,7 @@
 
 Announcements about new features and changes. Also published at https://imbutus.com/news.
 
+- **2026-07-26** — [SCAIL-2 is ready to use](posts/scail2-ready.md)
 - **2026-07-24** — [Set your own auto-stop timeout](posts/per-user-auto-stop.md)
 - **2026-07-22** — [See your usage and spending](posts/usage-and-spending.md)
 - **2026-07-18** — [Prepared OSINT Workflows](posts/prepared-osint-workflows.md)
