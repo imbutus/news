@@ -2,6 +2,7 @@
 
 Announcements about new features and changes. Also published at https://imbutus.com/news.
 
+- **2026-07-28** — [Voice bundles reorganized](posts/voice-bundles-reorganized.md)
 - **2026-07-26** — [Sulphur-2 video tutorial](posts/sulphur2-video-tutorial.md)
 - **2026-07-26** — [SCAIL-2 is ready to use](posts/scail2-ready.md)
 - **2026-07-24** — [Set your own auto-stop timeout](posts/per-user-auto-stop.md)
