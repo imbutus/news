@@ -2,6 +2,7 @@
 
 Announcements about new features and changes. Also published at https://imbutus.com/news.
 
+- **2026-08-03** — [MiniMax H3 walkthrough](posts/minimax-h3-video-tutorial.md)
 - **2026-08-03** — [MiniMax H3 is available](posts/minimax-h3-added.md)
 - **2026-07-28** — [Voice bundles reorganized](posts/voice-bundles-reorganized.md)
 - **2026-07-26** — [Sulphur-2 video tutorial](posts/sulphur2-video-tutorial.md)
