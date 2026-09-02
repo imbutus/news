@@ -2,6 +2,7 @@
 
 Announcements about new features and changes. Also published at https://imbutus.com/news.
 
+- **2026-09-02** — [A video tutorial for MiniMaxDirector](posts/minimax-director-video-tutorial.md)
 - **2026-08-25** — [Three new models, and two retired](posts/ornith-1-5-and-cyberstrike.md)
 - **2026-08-22** — [MiniMaxDirector 0.16.0: everything the H3 guides ask for](posts/minimax-director-0-16-0.md)
 - **2026-08-18** — [Qwen3.8 27B is available](posts/qwen38-27b-added.md)
